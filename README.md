@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Docker-Laravel_Semaphore
 
 hub delete -y tomnoland/$REPO_NAME
 
