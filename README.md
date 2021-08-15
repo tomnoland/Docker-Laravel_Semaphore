@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# [Dockerizing a PHP Application](https://semaphoreci.com/community/tutorials/dockerizing-a-php-application)
 
 Template for new projects
 
